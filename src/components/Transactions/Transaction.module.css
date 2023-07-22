@@ -1,0 +1,27 @@
+.transactionHistory {
+  margin: auto;
+  widows: 800px;
+}
+
+.tableHead {
+  border-radius: 30px;
+  height: 40px;
+  padding: 7px;
+  background-color: rgb(79, 183, 218);
+  color: white;
+}
+
+.tableData {
+  background-color: rgb(217, 245, 255);
+  font-size: 16px;
+}
+
+.tableData:hover {
+  background: #faf8f880;
+}
+
+.tableDataCell {
+  width: 350px;
+  height: 35px;
+  text-align: center;
+}
